@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FINE\\Desktop\\Vision Project\\Hospital-Management-Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{938A7D73-42F8-41D4-B816-DD61A1CDC070}|Hospital-Management-Backend.csproj|c:\\users\\fine\\desktop\\vision project\\hospital-management-backend\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{938A7D73-42F8-41D4-B816-DD61A1CDC070}|Hospital-Management-Backend.csproj|solutionrelative:controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938A7D73-42F8-41D4-B816-DD61A1CDC070}|Hospital-Management-Backend.csproj|c:\\users\\fine\\desktop\\vision project\\hospital-management-backend\\models\\hospitalmanagementappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{938A7D73-42F8-41D4-B816-DD61A1CDC070}|Hospital-Management-Backend.csproj|solutionrelative:models\\hospitalmanagementappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938A7D73-42F8-41D4-B816-DD61A1CDC070}|Hospital-Management-Backend.csproj|c:\\users\\fine\\desktop\\vision project\\hospital-management-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{938A7D73-42F8-41D4-B816-DD61A1CDC070}|Hospital-Management-Backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938A7D73-42F8-41D4-B816-DD61A1CDC070}|Hospital-Management-Backend.csproj|c:\\users\\fine\\desktop\\vision project\\hospital-management-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{938A7D73-42F8-41D4-B816-DD61A1CDC070}|Hospital-Management-Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\FINE\\Desktop\\Vision Project\\Hospital-Management-Backend\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentAPIController.cs",
+              "ToolTip": "C:\\Users\\FINE\\Desktop\\Vision Project\\Hospital-Management-Backend\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "Controllers\\StudentAPIController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:06:53.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\FINE\\Desktop\\Vision Project\\Hospital-Management-Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\FINE\\Desktop\\Vision Project\\Hospital-Management-Backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-05T17:00:57.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FINE\\Desktop\\Vision Project\\Hospital-Management-Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\FINE\\Desktop\\Vision Project\\Hospital-Management-Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:00:54.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HospitalManagementAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\FINE\\Desktop\\Vision Project\\Hospital-Management-Backend\\Models\\HospitalManagementAppContext.cs",
+              "RelativeDocumentMoniker": "Models\\HospitalManagementAppContext.cs",
+              "ToolTip": "C:\\Users\\FINE\\Desktop\\Vision Project\\Hospital-Management-Backend\\Models\\HospitalManagementAppContext.cs",
+              "RelativeToolTip": "Models\\HospitalManagementAppContext.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAIA5wBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T16:59:35.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
